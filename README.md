@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raul-anton-2005
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Python, Java and Bash
+- 🌱 I’m currently learning Python, C++ and Bash
 - 📫 How to reach me raulantonechevarria@gmail.com
 - 😄 Pronouns: He/Him
 
