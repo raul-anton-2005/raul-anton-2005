@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @raul-anton-2005
+- 📓 Currently working as @raul-anton-uji
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python, C++ and Bash
 - 📫 How to reach me raulantonechevarria@gmail.com
